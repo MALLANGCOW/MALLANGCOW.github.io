@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// 반환값이 없는 함수
 void print_char(char ch, int count);            // 함수 선언
 
 int main(void)
